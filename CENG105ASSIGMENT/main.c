@@ -8,3 +8,5 @@ int main(void)
 	printf("the weather is cold");
   else if(temp>=25)
     printf("the weather is hot");
+else 
+	printf("the weather is normal");
