@@ -10,3 +10,4 @@ int main(void)
     printf("the weather is hot");
   else 
 	printf("the weather is normal");
+return(0);
