@@ -11,3 +11,4 @@ int main(void)
   else 
 	printf("the weather is normal");
 return(0);
+}
